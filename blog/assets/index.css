@@ -129,7 +129,9 @@ body{
   padding-left: 40px;
   border-left: 10px solid #eee;
 }
-
+ul > li {
+  padding: 0.2em;
+}
 #footer{
   text-align: center;
 }
